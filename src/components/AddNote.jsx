@@ -65,10 +65,7 @@ function AddNote() {
     }
   }, []);
 
-  // useEffect(() => {
-  //   localStorage.setItem("Notes" ,JSON.stringify(notes));
-  // }, [notes]);
-
+  
   return (
     <Form>
 
